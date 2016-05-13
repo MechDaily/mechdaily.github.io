@@ -9,7 +9,7 @@ body{
 
 .title{
 	color: white;
-	background-color: rgba(200,0,0,0.5);
+	background-color: rgba(0,0,50,0.5);
 	padding: 10%;
 	padding-left: 0;
 	padding-right: 0;
@@ -21,16 +21,17 @@ body{
 #tagline{
 	font-style: italic;
 	font-size: 25px;
+	color: white;
 }
 
 .body{
-	background-color: rgba(0,0,200,0.5);
+	background-color: rgba(255,255,255,0.5);
 	padding: 10%;
 	margin: 0%;
+	color: black;
 }
 #body{
 	font-size: 25px;
-	color: white;
 }
 .glyphicon {
     font-size: 150px;
