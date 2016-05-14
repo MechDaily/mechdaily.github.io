@@ -18,7 +18,7 @@ body{
 #title{
 	font-size: 70px;
 }
-#tagline{
+.tagline{
 	font-style: italic;
 	font-size: 25px;
 	color: white;
