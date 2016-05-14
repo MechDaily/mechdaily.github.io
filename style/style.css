@@ -36,3 +36,17 @@ body{
 .glyphicon {
     font-size: 150px;
 }
+.btn-arc{ 
+	margin-bottom: 2%;
+	font-size: 20px;
+}
+.btn-arc a{
+	text-decoration: none;
+	color: brown;
+}
+.btn-arc a:hover{
+	color: red;
+}
+.heading{
+	font-size: 25px;	
+}

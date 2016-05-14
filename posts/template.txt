@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="icon" href="../images/glyphicon.png" type="image/x-icon">
+  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+    <link href="../style/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div class="container" style="background-color: brown; color: white;">
+		<div align="center">
+
+			<h1 id="title"><b>MechDaily</b></h1>
+
+			<h4><b>Infotainment Like Never Before...</b></h4>
+		</div>
+		
+		<br>
+
+		<div align="right" class="btn-arc">
+			<br>
+			<button><a href="../articles.html">Back to Articles</a></button>&nbsp
+		</div>
+	</div>
+
+<br>
+
+	<div class="container" style="background-color: black; color: white">
+	<br>
+		<div class="thumbnail col-lg-2 col-md-2 col-sm-6 col-xs-6">
+			<img src="../images/logo-new.png" style="height: 120px; width: 120px;">
+		</div>
+		<div class="heading col-lg-10 col-md-10 col-sm-6 col-xs-6" align="center">
+			<b>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque rhoncus varius ipsum non dapibus. Duis at fringilla ex, et blandit massa. Maecenas varius, est at cursus cursus, </b>
+		</div>
+	</div>
+
+<br>
+
+	<div class="container jumbotron">
+		<div class="post">
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque rhoncus varius ipsum non dapibus. Duis at fringilla ex, et blandit massa. Maecenas varius, est at cursus cursus, magna ipsum dignissim neque, at feugiat augue urna quis diam. Sed vitae urna et turpis fermentum mollis vitae sit amet ligula. Cras laoreet ligula purus, sit amet sodales felis iaculis nec. Nam eleifend felis quis lobortis maximus. Vestibulum nec risus laoreet, ultricies nunc at, rhoncus tellus. Praesent commodo arcu sodales quam rhoncus cursus. Vestibulum hendrerit sem eu magna ornare condimentum. Praesent vel risus eu elit congue lobortis non ornare erat. Sed sit amet ullamcorper dui. Nullam et egestas purus, in aliquet sapien. Duis ac arcu non tellus pharetra auctor. Proin libero quam, volutpat sit amet egestas vel, eleifend quis nibh.</p>
+
+			<p>In luctus id sapien in eleifend. Aenean tempus, ligula ac finibus iaculis, enim magna cursus orci, nec ornare leo est nec velit. Integer imperdiet sagittis tortor, non pellentesque tellus luctus vel. Sed sagittis elit quis pellentesque accumsan. Vestibulum laoreet quis leo volutpat condimentum. Ut in diam a massa porttitor euismod. Morbi mauris quam, vehicula et neque sed, gravida euismod massa. In vel rutrum sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+			<p>Suspendisse id augue erat. In pulvinar iaculis diam, vel tincidunt tortor. Integer id augue tincidunt ligula dignissim blandit. Vestibulum nisi purus, gravida non lorem id, venenatis gravida est. Quisque a lorem vitae neque suscipit hendrerit in vitae orci. Donec at ultricies eros. Fusce a lorem aliquam purus fermentum bibendum blandit nec ante. Aliquam varius odio eget nisi ultrices, eget fermentum tortor consequat. Morbi vel elit suscipit dolor malesuada pellentesque et eu urna. Phasellus congue aliquam pulvinar. Ut massa lectus, luctus vitae malesuada id, congue ac urna. Suspendisse potenti. Pellentesque tristique fringilla ex eu tincidunt. Nam fringilla maximus leo, eu laoreet nulla mollis vel. Praesent est risus, commodo ac dignissim sit amet, ornare nec odio. Sed ullamcorper diam at nulla volutpat maximus.</p>
+		</div>
+	</div>
+
+</body>
+</html>
